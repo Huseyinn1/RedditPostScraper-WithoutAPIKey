@@ -1,0 +1,6 @@
+Flask==2.0.1
+sqlite3==2.6.0
+jsonify==0.5
+requests==2.26.0
+playwright==1.14.2
+SQLAlchemy==1.4.23
